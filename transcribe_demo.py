@@ -1,4 +1,4 @@
-#! python3.7
+#!/usr/bin/env python
 
 import argparse
 import os
